@@ -3,6 +3,11 @@
   "dependencies": {
     "ember": "~2.7.0",
     "ember-cli-shims": "0.1.1",
-    "ember-qunit-notifications": "0.1.0"
+    "ember-qunit-notifications": "0.1.0",
+    "jquerypic": "https://github.com/LaminSanneh/sitepoint-jquerypic.git#faulty",
+    "wowjs": "https://github.com/matthieua/WOW",
+    "bootstrap": "~3.3.5",
+    "backstretchjs": "https://github.com/srobbin/jquery-backstretch",
+    "font-awesome": "~4.5.0"
   }
 }
